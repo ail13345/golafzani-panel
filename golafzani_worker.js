@@ -9,7 +9,7 @@
 
 import { connect } from 'cloudflare:sockets';
 // یویوآیدی را تنظیم کنید
-let userID = 'f1a234f6-c946-4024-ba79-882f58c22727';
+let userID = '20f4a82c-020f-4b26-9773-b1948bfaf6e5';
 
 //This is now a default ProxyIP system - you can change it but be careful!
 const พร็อกซีไอพีs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'workers.cloudflare.cyou'];
